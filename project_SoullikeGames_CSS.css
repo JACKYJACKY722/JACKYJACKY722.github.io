@@ -1,0 +1,262 @@
+body{
+	background-image: url("BG3.jpg");
+	background-size: cover;
+	background-attachment: fixed;
+}
+.row1_col1:hover{
+    background-color:darkgrey;
+    color:black;
+    opacity: 0.2;
+    transition: 1s; 
+}
+h1{
+	opacity: 1;
+}
+#Pg1_row1{
+	width: 130%;
+	float: left;
+	text-align: center;
+	position:fixed;
+    top:0;
+    margin-left: -37px;
+    background-color:;
+   	backdrop-filter: blur(12px);
+}
+.row1_col1{
+	width: 20%;
+	float: left;
+	text-align: center;
+	color: black;
+
+
+}
+#row1_col2{
+	background-color: lightblue;
+	width: 30%;
+	text-align: center;
+}
+#Pg1_title1{
+	font-size: 70px;
+	text-align: center;
+	font-family: Archivo Black;
+	color: black;
+	text-shadow: 5px solid darkgrey;
+}
+#Pg1_p1{
+	
+}
+#Pg1_p2{
+	border:10px solid black;
+	text-align: center;
+	width: 45%;
+	float: left;
+	margin-left: 60px;
+	background-color:gray;
+}
+#Pg1_p3{
+	border:10px solid black;
+	text-align: center;
+	width: 45%;
+	float: left;
+	margin-right: 40px;
+	margin-left: 10px;
+	height: 424px;
+	background-color:darkgrey;
+}
+#Pg1_p4{
+	font-size: 30px;
+	background-color:darkgrey;
+	height: 425px;
+	margin-top: 0px;
+}
+#Pg1_row2{
+	
+	text-align: center;
+	float: left;
+	margin-left: 60px;
+	margin-top: 30px;
+	width: 92%;
+
+}
+.row2_col1{
+	border:10px solid black;
+	text-align: center;
+	float: left;
+	height: 300px;
+	width: 400px;
+	margin-top: 30px;
+	margin-left: 75px;
+	background-color:darkgrey;
+}
+.row2_col2{
+	border:10px solid black;
+	text-align: center;
+	float: left;
+	height: 200px;
+	width: 400px;
+	margin-top: 0px;
+	margin-left: 75px;
+	font-size: 22px;
+	background-color:darkgrey;
+}
+
+
+#Pg2_title1{
+	font-size: 110px;
+	text-align: center;
+	font-family: Archivo Black;
+}
+#Pg2_p2{
+	border:10px solid black;
+	text-align: center;
+	width: 25%;
+	float: left;
+	margin-left: 60px;
+	height: 420px;
+}
+#Pg2_row1{
+	text-align: center;
+	
+}
+#Pg2_p3{
+	border:10px solid black;
+	text-align: center;
+	width: 45%;
+	float: left;
+	margin-right: 40px;
+	margin-left: 10px;
+	height: 420px;
+}
+#Pg2_p5{
+	float: left;
+	width: 20%;
+	height: 1150px;
+	margin-top: px;
+}
+#Pg2_col2{
+	border: 10px solid black;
+	width: 49.9%;
+	height: 300px;
+	text-align: center;
+	float: left;
+	margin-top: -675px;
+	margin-left: 60px;
+}
+#Pg2_col3{
+	border: 10px solid black;
+	float: left;
+	width: 20%;
+	height: 300px;
+	text-align: center;
+	margin-top: -675px;
+	margin-left: 55.3%;
+}
+iframe,p,img{
+	font-size: 31.5px;
+	width: 100%;
+	height: 100%;
+	background-image: url("https://www.onlygfx.com/wp-content/uploads/2021/01/grunge-black-background-2.jpg");
+	background-size: 100%;
+	margin-top: 0px;
+	color: darkgrey;
+}
+#Pg2_col4{
+	border: 10px solid black;
+	width: 49.9%;
+	height: 300px;
+	text-align: center;
+	float: left;
+	margin-left: 60px;
+	margin-top: -322px;
+}
+#Pg2_col5{
+	border: 10px solid black;
+	float: left;
+	width: 20%;
+	height: 300px;
+	text-align: center;
+	margin-left: 55.3%;
+	margin-top: -322px;
+}
+#Pg3_title1{
+	font-size: 110px;
+	text-align: center;
+	margin-left: 30%;
+	font-family: Archivo Black;
+	position: fixed;
+	z-index: -1;
+}
+#Pg3_p1{
+	border: 10px solid black;
+	text-align: center;
+	float: left;
+	width: 35%;
+	height: 350px;
+	margin-left: 60px;	
+	margin-top: 900px;
+}
+#Pg3_p2{
+	border: 10px solid black;
+	text-align: center;
+	float: left;
+	width: 40%;
+	height: 250px;
+	margin-left: 55%;
+	margin-top: -320px;	
+}
+#Pg3_p3{
+	border: 10px solid black;
+	text-align: center;
+	float: left;
+	width: 40%;
+	height: 350px;
+	margin-left: 55%;
+	margin-top: 150px;	
+}
+#Pg3_p4{
+	border: 10px solid black;
+	text-align: center;
+	float: left;
+	width: 35%;
+	height: 250px;
+	margin-left: 60px;	
+	margin-top: -320px;
+}
+#Pg3_p5{
+	border: 10px solid black;
+	text-align: center;
+	float: left;
+	width: 35%;
+	height: 350px;
+	margin-left: 60px;	
+	margin-top: 150px;
+}
+#Pg3_p6{
+	border: 10px solid black;
+	text-align: center;
+	float: left;
+	width: 40%;
+	height: 250px;
+	margin-left: 55%;
+	margin-top: -320px;	
+}
+#Q{
+	border: 10px solid black;
+	text-align: center;
+	float: left;
+	width: 80%;
+	height: 500px;
+	margin-left: 10%;
+	margin-top: 10%;
+	font-size: 70px;
+	backdrop-filter: blur(12px);
+	font-weight: bold;
+	transition: 20s;
+    transition-delay: 0.1s;
+}
+#QQ{
+	margin-top: 170px;
+}
+#Q:hover{
+    transform:rotate(3600deg);
+ }
